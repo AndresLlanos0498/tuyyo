@@ -11,7 +11,6 @@ function Routes(){
             <Switch>
                 <Route path="/" exact component={Home} />
                 <Route path="/13072024" exact component={DetailsLove} />
-                <Route path="/details/:type/:id" exact component={Details} />
             </Switch>        
         </BrowserRouter>
     );
