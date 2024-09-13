@@ -10,8 +10,8 @@ function Routes(){
         <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
                 <Route path="/" exact component={Home} />
-                <Route path="/details/:type/:id" exact component={Details} />
                 <Route path="/tuyyo/13072024" exact component={DetailsLove} />
+                <Route path="/details/:type/:id" exact component={Details} />
             </Switch>        
         </BrowserRouter>
     );
