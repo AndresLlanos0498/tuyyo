@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b21cbf4f0d68cf1892af82d19eab41d",
+    "revision": "ab3c7cf1e7737bb7fec8ed5951843138",
     "url": "/tuyyo/index.html"
   },
   {
-    "revision": "b54c4c06fa199c16525a",
+    "revision": "b59f9f2681af0293319f",
     "url": "/tuyyo/static/css/main.d6761f4e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tuyyo/static/js/2.d48abf58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b54c4c06fa199c16525a",
-    "url": "/tuyyo/static/js/main.01305af9.chunk.js"
+    "revision": "b59f9f2681af0293319f",
+    "url": "/tuyyo/static/js/main.c7a6519c.chunk.js"
   },
   {
     "revision": "ee64db2d0408a6fae822",
