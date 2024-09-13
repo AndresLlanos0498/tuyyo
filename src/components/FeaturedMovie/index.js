@@ -34,7 +34,7 @@ function FeaturedMovie( { item } ) {
 
                 <div className="featured--description">Desde que se conocieron siendo apenas unos adolescentes, su conexión fue innegable, pero la vida, con todos sus giros inesperados, les hizo recorrer caminos separados. Ahora, después de años de aprendizajes, amores y desamores, se reencuentran para descubrir que lo que sentían de adolescentes ha madurado en un amor profundo e inquebrantable. Juntos, deberán enfrentar los desafíos del presente mientras construyen un futuro donde cada recuerdo, cada promesa y cada sueño se entrelazan para crear una historia de amor verdadera.</div>
                 <div className="featured--buttons">
-                    <a disabled className="featured--watchbutton" href="/13072024"><div><PlayArrowIcon />Reproducir</div></a>
+                    <a disabled className="featured--watchbutton" href="/tuyyo/amor/13072024"><div><PlayArrowIcon />Reproducir</div></a>
                     <a disabled className="featured--mylistbutton"><div><AddIcon />Agregar a lista</div></a>
                 </div>
                 <div className="featured--genres"><strong>Generos:</strong> Romance, Comedia, Drama</div>
