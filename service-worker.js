@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tuyyo/precache-manifest.4d87a36e164dae89f9478644df0ec126.js"
+  "/tuyyo/precache-manifest.ee5dd0bd64559b643ba122abe6132976.js"
 );
 
 self.addEventListener('message', (event) => {
