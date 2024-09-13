@@ -16,7 +16,7 @@ function DetailsLove(){
 
     useEffect(() => {
         const loadAll = async () => {
-            let movie = ("Desde que se conocieron siendo apenas unos niños, su conexión fue innegable, pero la vida, con todos sus giros inesperad..");
+            let movie = ("Desde que se conocieron siendo apenas unos adolescentes, su conexión fue innegable, pero la vida, con todos sus giros inesperad..");
             setMovieDetails(movie);
             setDescriptionVideo("Descubrieron que lo suyo siempre fue amor. Ahora, entre risas, viajes, y alguno que otro conflicto, viven su dia a dia construyendo un futuro juntos.");
             console.log(movie)

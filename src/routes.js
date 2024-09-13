@@ -11,7 +11,7 @@ function Routes(){
             <Switch>
                 <Route path="/" exact component={Home} />
                 <Route path="/details/:type/:id" exact component={Details} />
-                <Route path="/13072024" exact component={DetailsLove} />
+                <Route path="/tuyyo/13072024" exact component={DetailsLove} />
             </Switch>        
         </BrowserRouter>
     );
