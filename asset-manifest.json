@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tuyyo/static/css/main.d6761f4e.chunk.css",
-    "main.js": "/tuyyo/static/js/main.5b897f0b.chunk.js",
-    "main.js.map": "/tuyyo/static/js/main.5b897f0b.chunk.js.map",
+    "main.js": "/tuyyo/static/js/main.a7023bb2.chunk.js",
+    "main.js.map": "/tuyyo/static/js/main.a7023bb2.chunk.js.map",
     "runtime-main.js": "/tuyyo/static/js/runtime-main.d31eef37.js",
     "runtime-main.js.map": "/tuyyo/static/js/runtime-main.d31eef37.js.map",
     "static/js/2.d48abf58.chunk.js": "/tuyyo/static/js/2.d48abf58.chunk.js",
     "static/js/2.d48abf58.chunk.js.map": "/tuyyo/static/js/2.d48abf58.chunk.js.map",
     "index.html": "/tuyyo/index.html",
-    "precache-manifest.e737ab25f7539f049478dcfdc92a8f85.js": "/tuyyo/precache-manifest.e737ab25f7539f049478dcfdc92a8f85.js",
+    "precache-manifest.ba784911524e80b265b6b3a0116d1c79.js": "/tuyyo/precache-manifest.ba784911524e80b265b6b3a0116d1c79.js",
     "service-worker.js": "/tuyyo/service-worker.js",
     "static/css/main.d6761f4e.chunk.css.map": "/tuyyo/static/css/main.d6761f4e.chunk.css.map",
     "static/js/2.d48abf58.chunk.js.LICENSE.txt": "/tuyyo/static/js/2.d48abf58.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d31eef37.js",
     "static/js/2.d48abf58.chunk.js",
     "static/css/main.d6761f4e.chunk.css",
-    "static/js/main.5b897f0b.chunk.js"
+    "static/js/main.a7023bb2.chunk.js"
   ]
 }
